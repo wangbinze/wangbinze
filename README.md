@@ -9,7 +9,8 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href=""><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+
+[comment]: <> (  <a href=""><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;)
 <!-- 访客数统计徽标 -->
 
 [comment]: <> (  <img src="https://visitor-badge.glitch.me/badge?page_id=wangbinze" />)
